@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/amazitistore2023-24/static/css/main.cc4aa5b4.css",
+    "main.js": "/amazitistore2023-24/static/js/main.bef2a5fa.js",
+    "static/media/7138lHRi36L._SX3000_.jpg": "/amazitistore2023-24/static/media/7138lHRi36L._SX3000_.0dbb6c677c8dc576f29c.jpg",
+    "static/media/710Q61rv7mL._SX3000_.jpg": "/amazitistore2023-24/static/media/710Q61rv7mL._SX3000_.90bb1bb6a1ad70935bf3.jpg",
+    "static/media/71MjshnOq+L._SX3000_.jpg": "/amazitistore2023-24/static/media/71MjshnOq+L._SX3000_.1d29891764e5f8141016.jpg",
+    "static/media/71-xs7rzA-L._SX3000_.jpg": "/amazitistore2023-24/static/media/71-xs7rzA-L._SX3000_.4139cb64c53d0f9e7ca0.jpg",
+    "static/media/71bVZPO4EHL._SX3000_.jpg": "/amazitistore2023-24/static/media/71bVZPO4EHL._SX3000_.dda64f1486e3d7cef43f.jpg",
+    "static/media/61qfJ0kqCwL._SX3000_.jpg": "/amazitistore2023-24/static/media/61qfJ0kqCwL._SX3000_.eaed74535be653095226.jpg",
+    "static/media/logo.png": "/amazitistore2023-24/static/media/logo.1c9be0b254d3ff1dc9e9.png",
+    "static/media/emptyCart (1).png": "/amazitistore2023-24/static/media/emptyCart (1).230e4848b62fb3cab325.png",
+    "static/media/slick.svg": "/amazitistore2023-24/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/amazitistore2023-24/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/amazitistore2023-24/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/amazitistore2023-24/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/amazitistore2023-24/index.html",
+    "main.cc4aa5b4.css.map": "/amazitistore2023-24/static/css/main.cc4aa5b4.css.map",
+    "main.bef2a5fa.js.map": "/amazitistore2023-24/static/js/main.bef2a5fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc4aa5b4.css",
+    "static/js/main.bef2a5fa.js"
+  ]
+}
